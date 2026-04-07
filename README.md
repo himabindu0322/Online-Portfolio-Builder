@@ -43,9 +43,13 @@ Output Screenshots
 https://github.com/himabindu0322/Online-Portfolio-Builder/blob/main/login.png
 
 Team Members
+
 K.Himabindu(Testing and System Architecture)
+
 Sk.Noor Hameeda(Frontend Developer)
+
 B.Ankitha(Backend Developer)
+
 K.Rishma(Database and Integration Developer)
 
 📌 Future Enhancements
